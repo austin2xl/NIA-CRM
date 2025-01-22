@@ -1,0 +1,38 @@
+﻿namespace CrmTechTitans.Models
+{
+    public enum IndustryType
+    {
+        Agriculture,
+        Apparel,
+        Banking,
+        Biotechnology,
+        Chemicals,
+        Communications,
+        Construction,
+        Consulting,
+        Education,
+        Electronics,
+        Energy,
+        Engineering,
+        Entertainment,
+        Environmental,
+        Finance,
+        FoodBeverage,
+        Government,
+        Healthcare,
+        Hospitality,
+        Insurance,
+        Machinery,
+        Manufacturing,
+        Media,
+        NotForProfit,
+        Recreation,
+        Retail,
+        Shipping,
+        Technology,
+        Telecommunications,
+        Transportation,
+        Utilities,
+        Other
+    }
+}
